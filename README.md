@@ -9,13 +9,13 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ---
 
-### 🌍 Location & Work
+### 💼 Work
 * Based in France.
 * Currently a student at CY PARIS UNIVERSITY.
 
 ---
 
-## My Skills
+## 🛠️ My Skills
 
 ### Back-End Development
 * Utilizing **Spring Boot** and **Java EE** frameworks to develop robust applications including RESTful APIs, connection to databases, and implementing security features.
