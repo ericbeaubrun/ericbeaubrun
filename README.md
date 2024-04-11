@@ -1,25 +1,25 @@
 # Welcome to My GitHub Profile !
 
-
 Hi, my name is Eric,
 I'm a passionate Full-Stack Developer Student, specializing in Java for the back-end and React/Angular for the front-end.
 
 
+
 ---
 *  📁  See my portfolio: [e-adelaide-beaubrun.fr]() (in comming...).
----
+
 
 
 ---
 *  🌍  Based in France.
 *  💼  Currently a student at CY PARIS UNIVERSITY.
----
+
 
 
 ---
 ## My Skills
 
-Web Back-End :
+- Back-End :
 Using **Spring Boot** and **Java EE** frameworks to develop applications (RESTful APIs, connection to relational and non-relational databases and secturity).
 
 <p align="center">
@@ -29,7 +29,7 @@ Using **Spring Boot** and **Java EE** frameworks to develop applications (RESTfu
 </p
 
   
-Web Front-End :
+- Front-End :
 **React / Angular :** Developing structured and maintainable applications with dynamic interface and responsive design.
 
 <p align="center">
@@ -37,23 +37,19 @@ Web Front-End :
     <img src="https://skillicons.dev/icons?i=angular,react" />
   </a>
 </p  
----
+
 
   
 ---
 ## 🚀 Currently Learning
 
-<ul>
-  <li>Python: Diving into Python to leverage its versatility in web development, scripting, and data analysis.</li>
-  <li>Django & Flask: Planning to explore these Python frameworks to enhance my back-end development skills, Django for robust web applications and Flask for more straightforward, lighter back-end services.</li>
-  <li>Rust: Intrigued by Rust's performance and safety features, I am eager to understand how it can be utilized in system-level programming and potentially in web development.</li>
-  <li>Personal Projects: Actively working on personal projects to apply and hone my skills, available for viewing on my GitHub. Feedback is always welcome !</li>
-</ul>
----
+*  Django & Flask: Planning to explore these Python frameworks to enhance my back-end development skills, Django for robust web applications and Flask for more straightforward, lighter back-end services.
+*  Rust: Intrigued by Rust's performance and safety features, I am eager to understand how it can be utilized in system-level programming and potentially in web development.
+*  Personal Projects: Actively working on personal projects to apply and hone my skills, available for viewing on my GitHub. Feedback is always welcome !
+
 
 
 ---
 ##  ✉️  You can contact me at
 *  [e.adelaide.beaubrun@gmail.com](mailto:e.adelaide.beaubrun@gmail.com)
 *  [Linkedin](https://www.linkedin.com/in/eric-adelaide-beaubrun-416547290/)
----
