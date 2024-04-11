@@ -5,9 +5,11 @@ I'm a passionate Full-Stack Developer Student, specializing in Java for the back
   
 --------------------------------------------------------------
 
-*  🌍  I'm based in France.
-*  💼  Currently a student at CY PARIS UNIVERSITY.
-*  📁 See my portfolio: [e-adelaide-beaubrun.fr]() (in comming...).
+<ul>
+  <li>🌍  I'm based in France.</li>
+  <li>💼  Currently a student at CY PARIS UNIVERSITY.</li>
+  <li>📁 See my portfolio: [e-adelaide-beaubrun.fr]() (in comming...).</li>
+</ul>
 
 --------------------------------------------------------------
 
@@ -37,7 +39,7 @@ Web Front-End
   
 --------------------------------------------------------------
 
-### Learning and Development
+### Learning
 
 *  Python: Diving into Python to leverage its versatility in web development, scripting, and data analysis.
 *  Django & Flask: Planning to explore these Python frameworks to enhance my back-end development skills, Django for robust web applications and Flask for more straightforward, lighter back-end services.
@@ -46,6 +48,12 @@ Web Front-End
 
 --------------------------------------------------------------
 
+### 🚀 About My Projects
+
+(in comming...)
+
+--------------------------------------------------------------
+
 ✉️  You can contact me at :
 *  [e.adelaide.beaubrun@gmail.com](mailto:e.adelaide.beaubrun@gmail.com)
-*  [linkedin](linkedin.com/in/eric-adelaide-beaubrun-416547290)
+*  [Linkedin](https://www.linkedin.com/in/eric-adelaide-beaubrun-416547290/)
