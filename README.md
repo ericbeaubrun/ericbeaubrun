@@ -1,55 +1,51 @@
-# Welcome to My GitHub Profile !
+# Welcome to My GitHub Profile!
 
-Hi, my name is Eric,
-I'm a passionate Full-Stack Developer Student, specializing in Java for the back-end and React/Angular for the front-end.
-
-
+Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing in Java for the back-end and React/Angular for the front-end.
 
 ---
-*  📁  See my portfolio: [e-adelaide-beaubrun.fr]() (in comming...).
 
-
-
----
-*  🌍  Based in France.
-*  💼  Currently a student at CY PARIS UNIVERSITY.
-
-
+### 📁 Portfolio
+* See my portfolio: [e-adelaide-beaubrun.fr](#) (coming soon).
 
 ---
+
+### 🌍 Location & Work
+* Based in France.
+* Currently a student at CY PARIS UNIVERSITY.
+
+---
+
 ## My Skills
 
-- Back-End :
-Using **Spring Boot** and **Java EE** frameworks to develop applications (RESTful APIs, connection to relational and non-relational databases and secturity).
+### Back-End Development
+* Utilizing **Spring Boot** and **Java EE** frameworks to develop robust applications including RESTful APIs, connection to databases, and implementing security features.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,ts,js,php,spring" />    
+    <img src="https://skillicons.dev/icons?i=java,py,c,ts,js,php,spring" alt="Back-End Skills Icons"/>    
   </a>
-</p
+</p>
 
-  
-- Front-End :
-**React / Angular :** Developing structured and maintainable applications with dynamic interface and responsive design.
+### Front-End Development
+* Developing structured and maintainable applications with **React** and **Angular**, focusing on dynamic interfaces and responsive design.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react" />
+    <img src="https://skillicons.dev/icons?i=angular,react" alt="Front-End Skills Icons"/>
   </a>
-</p  
+</p>
 
-
-  
 ---
+
 ## 🚀 Currently Learning
 
-*  Django & Flask: Planning to explore these Python frameworks to enhance my back-end development skills, Django for robust web applications and Flask for more straightforward, lighter back-end services.
-*  Rust: Intrigued by Rust's performance and safety features, I am eager to understand how it can be utilized in system-level programming and potentially in web development.
-*  Personal Projects: Actively working on personal projects to apply and hone my skills, available for viewing on my GitHub. Feedback is always welcome !
-
-
+* **Django & Flask:** Exploring these Python frameworks to enhance back-end development skills—Django for robust web applications and Flask for streamlined services.
+* **Rust:** Delving into Rust to understand its application in system-level programming and web development.
+* Personal Projects: Actively engaging in personal projects to apply and hone my skills. Your feedback on my GitHub projects is always welcome!
 
 ---
-##  ✉️  You can contact me at
-*  [e.adelaide.beaubrun@gmail.com](mailto:e.adelaide.beaubrun@gmail.com)
-*  [Linkedin](https://www.linkedin.com/in/eric-adelaide-beaubrun-416547290/)
+
+## ✉️ Contact Me
+
+* Email: [e.adelaide.beaubrun@gmail.com](mailto:e.adelaide.beaubrun@gmail.com)
+* LinkedIn: [Eric Adelaide Beaubrun](https://www.linkedin.com/in/eric-adelaide-beaubrun-416547290/)
