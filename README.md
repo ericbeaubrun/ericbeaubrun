@@ -7,37 +7,37 @@ I'm a passionate Full-Stack Developer Student, specializing in Java for the back
 
 ---
 *  📁  See my portfolio: [e-adelaide-beaubrun.fr]() (in comming...).
+---
 
 
 ---
 *  🌍  Based in France.
 *  💼  Currently a student at CY PARIS UNIVERSITY.
-
+---
 
 
 ---
 ## My Skills
 
-###Web Back-End :
+Web Back-End :
 Using **Spring Boot** and **Java EE** frameworks to develop applications (RESTful APIs, connection to relational and non-relational databases and secturity).
-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,ts,js,php" />    
+    <img src="https://skillicons.dev/icons?i=java,py,c,ts,js,php,spring" />    
   </a>
 </p
 
   
-###Web Front-End :
+Web Front-End :
 **React / Angular :** Developing structured and maintainable applications with dynamic interface and responsive design.
-
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,angular,react" />
+    <img src="https://skillicons.dev/icons?i=angular,react" />
   </a>
 </p  
+---
 
   
 ---
@@ -49,9 +49,11 @@ Using **Spring Boot** and **Java EE** frameworks to develop applications (RESTfu
   <li>Rust: Intrigued by Rust's performance and safety features, I am eager to understand how it can be utilized in system-level programming and potentially in web development.</li>
   <li>Personal Projects: Actively working on personal projects to apply and hone my skills, available for viewing on my GitHub. Feedback is always welcome !</li>
 </ul>
+---
 
 
 ---
 ##  ✉️  You can contact me at
 *  [e.adelaide.beaubrun@gmail.com](mailto:e.adelaide.beaubrun@gmail.com)
 *  [Linkedin](https://www.linkedin.com/in/eric-adelaide-beaubrun-416547290/)
+---
