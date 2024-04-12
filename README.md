@@ -39,9 +39,8 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ## 🚀 Currently Learning
 
-* **Django & Flask:** Exploring these Python frameworks to enhance back-end development skills—Django for robust web applications and Flask for streamlined services.
-* **Rust:** Delving into Rust to understand its application in system-level programming and web development.
-* Personal Projects: Actively engaging in personal projects to apply and hone my skills. Your feedback on my GitHub projects is always welcome!
+* **Django & Flask:** Exploring these Python frameworks.
+* **Rust:** Learning Rust to understand its application in system-level programming and web development.
 
 ---
 
