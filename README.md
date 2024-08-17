@@ -5,7 +5,7 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 ---
 
 ### 📁 Portfolio
-* See my portfolio: [ericbeaubrun.github.io/portfolio](#) (coming soon).
+* See my portfolio: [ericbeaubrun.github.io/portfolio](#)
 
 ---
 
