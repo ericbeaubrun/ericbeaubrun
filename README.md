@@ -22,7 +22,7 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,ts,js,php,spring" alt="Back-End Skills Icons"/>    
+    <img src="https://skillicons.dev/icons?i=java,py,c,php,spring" alt="Back-End Skills Icons"/>    
   </a>
 </p>
 
@@ -31,7 +31,7 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,react" alt="Front-End Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=react,angular,js,ts" alt="Front-End Skills Icons"/>
   </a>
 </p>
 
