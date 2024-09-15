@@ -5,41 +5,41 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 ---
 
 ### 📁 Portfolio
-* See my portfolio: [ericbeaubrun.github.io/portfolio](https://ericbeaubrun.github.io/portfolio/)
+* See my portfolio: [eric.adelaide-beaubrun.fr](https://eric.adelaide-beaubrun.fr)
 
 ---
 
 ### 💼 Work
 * Based in France.
-* Currently a student at CY PARIS UNIVERSITY.
+* Student at CY PARIS UNIVERSITY.
 
 ---
 
 ## 🛠️ My Skills
 
 ### Back-End Development
-* Utilizing **Spring Boot** and **Java EE** frameworks to develop robust applications including RESTful APIs, connection to databases, and implementing security features.
+* Utilizing **Spring Boot** frameworks to develop applications including RESTful APIs, connection to databases, and implementing security features.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,c,php,spring" alt="Back-End Skills Icons"/>    
+    <img src="https://skillicons.dev/icons?i=java,spring,py,c,php" alt="Back-End Skills Icons"/>    
   </a>
 </p>
 
 ### Front-End Development
-* Developing structured and maintainable applications with **React** and **Angular**, focusing on dynamic interfaces and responsive design.
+* Developing applications with **React** and **Angular**, focusing on dynamic interfaces and responsive design.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,js,ts" alt="Front-End Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,angular" alt="Front-End Skills Icons"/>
   </a>
 </p>
 
 ---
 
-## 🚀 Currently Learning
+## 🚀 Learning
 
-* **Django & Flask:** Exploring these Python frameworks.
+* **Django & Flask:** Exploring these frameworks.
 * **Rust:** Learning Rust to understand its application in system-level programming and web development.
 
 ---
@@ -47,4 +47,4 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 ## ✉️ Contact Me
 
 * Email: [e.adelaide.beaubrun@gmail.com](mailto:e.adelaide.beaubrun@gmail.com)
-* LinkedIn: [Eric Adelaide Beaubrun](https://www.linkedin.com/in/eric-adelaide-beaubrun-416547290/)
+* LinkedIn: [linkedin.com/in/eric-adelaide-beaubrun/](https://www.linkedin.com/in/eric-adelaide-beaubrun-416547290/)
