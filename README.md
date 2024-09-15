@@ -11,7 +11,7 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ### 💼 Work
 * Based in France.
-* Student at CY PARIS UNIVERSITY.
+* Student at CY Cergy Paris Université.
 
 ---
 
