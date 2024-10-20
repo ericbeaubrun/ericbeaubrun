@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing in Java for the back-end and React/Angular for the front-end.
+Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing in Express.js and Next.js.
 
 ---
 
@@ -18,20 +18,20 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 ## 🛠️ My Skills
 
 ### Back-End Development
-* Utilizing **Spring Boot** frameworks to develop applications including RESTful APIs, connection to databases, and implementing security features.
+* Utilizing **Express.js** frameworks to develop applications including RESTful APIs, connection to databases, and implementing security features.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,py,c,php" alt="Back-End Skills Icons"/>    
+    <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" alt="Back-End Skills Icons"/>    
   </a>
 </p>
 
 ### Front-End Development
-* Developing applications with **React** and **Angular**, focusing on dynamic interfaces and responsive design.
+* Developing applications with **React** and **Next.js**, focusing on dynamic interfaces and responsive design.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,angular" alt="Front-End Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,next" alt="Front-End Skills Icons"/>
   </a>
 </p>
 
@@ -39,7 +39,7 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ## 🚀 Learning
 
-* **Django & Flask:** Exploring these frameworks.
+* **Spring Boot & Django:** Exploring these frameworks.
 * **Rust:** Learning Rust to understand its application in system-level programming and web development.
 
 ---
