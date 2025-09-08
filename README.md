@@ -34,4 +34,4 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 ## ✉️ Contact Me
 
 * Email: [e.adelaide.beaubrun@gmail.com](mailto:e.adelaide.beaubrun@gmail.com)
-* LinkedIn: [linkedin.com/in/eric-adelaide-beaubrun/](https://www.linkedin.com/in/adelaide-beaubrun/)
+* LinkedIn: [linkedin.com/in/adelaide-beaubrun/](https://www.linkedin.com/in/adelaide-beaubrun/)
