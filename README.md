@@ -11,8 +11,8 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ## 🛠️ Skills
 
-### Back-End Development
-* Utilizing **Express.js** frameworks to develop applications including RESTful APIs, connection to databases, and implementing security features.
+### Back-End
+* Utilizing **Express.js** frameworks to develop RESTful APIs with connection to databases and security features.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -20,8 +20,8 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
   </a>
 </p>
 
-### Front-End Development
-* Developing applications with **React** and **Next.js**, focusing on dynamic interfaces and responsive design.
+### Front-End
+* Developing web applications with **React** and **Next.js** focusing on dynamic interfaces.
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -34,4 +34,4 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 ## ✉️ Contact Me
 
 * Email: [e.adelaide.beaubrun@gmail.com](mailto:e.adelaide.beaubrun@gmail.com)
-* LinkedIn: [linkedin.com/in/eric-adelaide-beaubrun/](https://www.linkedin.com/in/eric-adelaide-beaubrun-416547290/)
+* LinkedIn: [linkedin.com/in/eric-adelaide-beaubrun/](https://www.linkedin.com/in/adelaide-beaubrun/)
