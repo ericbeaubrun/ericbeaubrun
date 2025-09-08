@@ -4,7 +4,7 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ---
 
-### 📁 Portfolio
+## 📁 Portfolio
 * See my portfolio: [eric.adelaide-beaubrun.fr](https://eric.adelaide-beaubrun.fr)
 
 ---
