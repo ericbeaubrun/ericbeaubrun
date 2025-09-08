@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile!
+# Welcome to My GitHub Profile !
 
 Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing in Express.js and Next.js.
 
@@ -9,13 +9,7 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ---
 
-### 💼 Work
-* Based in France.
-* Student at CY Cergy Paris Université.
-
----
-
-## 🛠️ My Skills
+## 🛠️ Skills
 
 ### Back-End Development
 * Utilizing **Express.js** frameworks to develop applications including RESTful APIs, connection to databases, and implementing security features.
@@ -34,13 +28,6 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
     <img src="https://skillicons.dev/icons?i=js,ts,react,next" alt="Front-End Skills Icons"/>
   </a>
 </p>
-
----
-
-## 🚀 Learning
-
-* **Spring Boot & Django:** Exploring these frameworks.
-* **Rust:** Learning Rust to understand its application in system-level programming and web development.
 
 ---
 
