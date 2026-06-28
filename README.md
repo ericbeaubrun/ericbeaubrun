@@ -23,7 +23,7 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,spring,docker,sql,postgres,mongodb" alt="Back-End Skills Icons"/>    
+    <img src="https://skillicons.dev/icons?i=java,python,nodejs,express,spring,docker,linux,postgres,mongodb" alt="Back-End Skills Icons"/>    
   </a>
 </p>
 
