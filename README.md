@@ -21,17 +21,15 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ### Back-End
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" alt="Back-End Skills Icons"/>       
-  </a> 
-</p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,docker,postgres,mongodb" alt="Back-End Skills Icons"/>   
-  </a>
-</p>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" alt="Back-End Skills Icons"/>       
+</a> 
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=spring,docker,postgres,mongodb" alt="Back-End Skills Icons"/>   
+</a>
+
 
 ---
 
