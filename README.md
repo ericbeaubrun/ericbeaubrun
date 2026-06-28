@@ -13,7 +13,7 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ### Front-End
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,next" alt="Front-End Skills Icons"/>
   </a>
@@ -21,15 +21,12 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 
 ### Back-End
 
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" alt="Back-End Skills Icons"/>       
-</a> 
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,docker,postgres,mongodb" alt="Back-End Skills Icons"/>   
-</a>
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" alt="Back-End Skills Icons"/> 
+    <img src="https://skillicons.dev/icons?i=spring,docker,postgres,mongodb" alt="Back-End Skills Icons"/>
+  </a> 
+</p>
 
 ---
 
