@@ -24,10 +24,13 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,python,nodejs,express" alt="Back-End Skills Icons"/>       
-  </a>
+  </a> 
+</p>
+
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=spring,docker,postgres,mongodb" alt="Back-End Skills Icons"/>   
-  </a> 
+  </a>
 </p>
 
 ---
@@ -35,4 +38,4 @@ Hi, my name is Eric. I'm a passionate Full-Stack Developer Student specializing 
 ## ✉️ Contact
 
 * Email: [e.adelaide.beaubrun@gmail.com](mailto:e.adelaide.beaubrun@gmail.com)
-* LinkedIn: [linkedin.com/in/adelaide-beaubrun/](https://www.linkedin.com/in/adelaide-beaubrun/)
+* LinkedIn: [linkedin.com/in/eric-adelaide-beaubrun/](https://www.linkedin.com/in/eric-adelaide-beaubrun/)
